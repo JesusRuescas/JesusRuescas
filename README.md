@@ -21,7 +21,6 @@
                 src="https://github-readme-stats.vercel.app/api/pin/?username=jesusruescas&repo=Sistema_de_Farmacia&theme=light" />
         </a>
 
-</div>
 
 <div align="center">
 
