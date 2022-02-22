@@ -11,8 +11,6 @@
   <img align="center" alt="Jesus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jesus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jesus-AHK" height="30" width="40" src="https://raw.githubusercontent.com/Ixiko/AHK-Forum/master/images/AHK%20main%20icon.png">
-
-  <-- <img align="right" alt="Jesus-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/njCLhkL.jpg"> -->
 </div>
   
   ##
