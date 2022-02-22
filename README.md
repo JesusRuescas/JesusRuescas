@@ -1,4 +1,5 @@
 ## Olá eu sou o Jesus, criador de conteúdo de programação e tecnologia!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
 <div align="center">
     <a href="https://github.com/jesusruescas">
