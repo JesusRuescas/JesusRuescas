@@ -2,18 +2,14 @@
 <div align="center">
     <a href="https://github.com/jesusruescas">
         <img align="center"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusruescas&theme=dracula&hide_langs_below=1" />
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusruescas&theme=github_dark&hide_langs_below=1" />
     </a>
     <a href="https://github.com/jesusruescas">
         <img align="center"
-            src="https://github-readme-stats.vercel.app/api?username=jesusruescas&show_icons=true&theme=dracula&line_height=27"
+            src="https://github-readme-stats.vercel.app/api?username=jesusruescas&show_icons=true&theme=github_dark&line_height=27"
             alt="Jesus github stats" />
     </a>
 
-    <a href="https://github.com/jesusruescas/Sistema_de_Farmacia">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jesusruescas&repo=Sistema_de_Farmacia
-        &theme=dracula" />
-       </a>
        
 <div style="display: inline_block"><br>
   <img align="center" alt="Jesus-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
