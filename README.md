@@ -4,7 +4,7 @@
         <p align="left"> <img
                 src="https://komarev.com/ghpvc/?username=jesusruescas&label=Views&color=blue&style=plastic"
                 alt="jesusruescas" /> </p>
-                
+    </a>            
     <a href="https://github.com/jesusruescas">
         <img align="center"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusruescas&theme=light&hide_langs_below=1" />
