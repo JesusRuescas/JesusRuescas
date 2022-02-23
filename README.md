@@ -22,7 +22,7 @@
   <img align="center" alt="Jesus-AHK" height="30" width="40" src="https://raw.githubusercontent.com/Ixiko/AHK-Forum/master/images/AHK%20main%20icon.png">
 </div>
     
-      <img alt="Jesus" src="https://i.imgur.com/6XuW0TR.gif">
+      <img align="right" alt="GIF" src="https://i.imgur.com/6XuW0TR.gif" width="320px" />
   
   ##
  
