@@ -22,7 +22,7 @@
   <img align="center" alt="Jesus-AHK" height="30" width="40" src="https://raw.githubusercontent.com/Ixiko/AHK-Forum/master/images/AHK%20main%20icon.png">
 </div>
     
-     <a href="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+     <a href="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" target="_blank"><img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" target="_blank"></a> 
   
   ##
  
