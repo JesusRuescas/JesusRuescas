@@ -22,7 +22,7 @@
   <img align="center" alt="Jesus-AHK" height="30" width="40" src="https://raw.githubusercontent.com/Ixiko/AHK-Forum/master/images/AHK%20main%20icon.png">
 </div>
     
-     <a href="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" target="_blank"><img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" target="_blank"></a> 
+      <img alt="Jesus" src="https://raw.githubusercontent.com/Ixiko/AHK-Forum/master/images/AHK%20main%20icon.png">
   
   ##
  
