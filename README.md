@@ -1,4 +1,3 @@
-## Olá eu sou o Jesus!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesusruescas&label=Views&color=blue&style=plastic" alt="jesusruescas" /> </p>
 
 <br>
