@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusRuescas&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  
-   [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=JesusRuescas&&theme=darkblue)](https://github.com/JesusRuescas)
+   [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=JesusRuescas&&theme=xcode)](https://github.com/JesusRuescas)
 </div>
   
 <h2>My Skills:</h2>
