@@ -11,6 +11,7 @@
 
 - 👨‍💻 More at [LinkedIn](https://linkedin.com/in/jesusruescas)
 
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=JesusRuescas&&theme=react-dark)](https://github.com/JesusRuescas)
 
 <div align="center">
   <a href="https://github.com/JesusRuescas">
@@ -19,7 +20,6 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JesusRuescas&&theme=tokyonight"/>
 </div>
  
-   [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=JesusRuescas&&theme=react-dark)](https://github.com/JesusRuescas)
 </div>
   
 <h2>My Skills:</h2>
