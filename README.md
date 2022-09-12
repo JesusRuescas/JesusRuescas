@@ -26,7 +26,7 @@
    
   <a href = "mailto:jrj_business@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/JesusRuescas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+ [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=JesusRuescas&&theme=xcode)](https://github.com/JesusRuescas)
  ![Snake animation](https://github.com/JesusRuescas/JesusRuescas/blob/output/github-contribution-grid-snake.svg)
  
 </div>
