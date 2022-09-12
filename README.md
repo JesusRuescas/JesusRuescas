@@ -17,10 +17,9 @@
   <img align="center" alt="Jesus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jesus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jesus-AHK" height="30" width="40" src="https://raw.githubusercontent.com/Ixiko/AHK-Forum/master/images/AHK%20main%20icon.png">
-  <img align="center" alt="GIF" src="https://i.imgur.com/6XuW0TR.gif" width="120px" />
  </div>
 
-<h2>Learning</h2>
+<h2>Contact</h2>
  <div style="display=inline-block">
             
 </div>  
