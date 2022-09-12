@@ -6,8 +6,7 @@
   <a href="https://github.com/JesusRuescas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JesusRuescas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusRuescas&layout=compact&langs_count=7&theme=tokyonight"/>
-    
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JesusRuescas&&theme=tokyonight" alt="JesusRuescas" /></p>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JesusRuescas&&theme=tokyonight"/>
 </div>
  
    [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=JesusRuescas&&theme=react-dark)](https://github.com/JesusRuescas)
