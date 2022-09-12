@@ -8,7 +8,7 @@
     </a>
     <a href="https://github.com/jesusruescas">
         <img align="center"
-            src="https://github-readme-stats.vercel.app/api?username=jesusruescas&show_icons=true&theme=github_dark&line_height=27"
+            src="https://github-readme-stats.vercel.app/api?username=jesusruescas&show_icons=true&theme=github_dark&line_height=20"
             alt="Jesus github stats" />
     </a>
 
