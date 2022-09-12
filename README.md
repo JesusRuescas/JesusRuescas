@@ -15,13 +15,8 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JesusRuescas&&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusRuescas&layout=compact&langs_count=7&theme=tokyonight"/>
 
-
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=JesusRuescas&&theme=react-dark)](https://github.com/JesusRuescas)
- 
-</div>
-  
-<h2>My Skills:</h2>
-<div style="display=inline-block">
+<h2 align="right">My Skills:</h2>
+<div style="display=inline-block" align="right">
   <img align="center" alt="Jesus-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Jesus-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Jesus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -29,6 +24,10 @@
   <img align="center" alt="Jesus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jesus-AHK" height="30" width="40" src="https://raw.githubusercontent.com/Ixiko/AHK-Forum/master/images/AHK%20main%20icon.png">
  </div>
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=JesusRuescas&&theme=react-dark)](https://github.com/JesusRuescas)
+ 
+</div>
+  
 
 <h2>Contact</h2>
  <div style="display=inline-block">
