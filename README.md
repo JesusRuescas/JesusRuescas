@@ -7,8 +7,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JesusRuescas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusRuescas&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=JesusRuescas&&theme=xcode)](https://github.com/JesusRuescas)
-<br>
  
 <h2>My Skills:</h2>
 <div style="display=inline-block">
@@ -28,5 +26,5 @@
   <a href = "mailto:jrj_business@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/JesusRuescas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  ![Snake animation](https://github.com/JesusRuescas/JesusRuescas/blob/output/github-contribution-grid-snake.svg)
- 
+ [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=JesusRuescas&&theme=xcode)](https://github.com/JesusRuescas)
 </div>
