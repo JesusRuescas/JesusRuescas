@@ -1,13 +1,4 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/JesusRuescas/eec2cdc8e39a9e1f23f2b7fe9d8bc365/raw/1a13c34f98524870a33335873d2457adc4c84144/githubcard.svg"/>
-<h2 align="right" height="590em">My Skills:</h2>
-  <p align="right" height="590em">
-  <img align="center" alt="Jesus-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Jesus-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Jesus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jesus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jesus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jesus-AHK" height="30" width="40" src="https://raw.githubusercontent.com/Ixiko/AHK-Forum/master/images/AHK%20main%20icon.png">
-  </p>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Jesus Ruescas</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JesusRuescas&color=yellow" alt="Profile views" /> </p>
 
