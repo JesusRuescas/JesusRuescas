@@ -1,5 +1,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesusruescas&label=Views&color=blue&style=plastic" alt="jesusruescas" /> </p>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/JesusRuescas/eec2cdc8e39a9e1f23f2b7fe9d8bc365/raw/1a13c34f98524870a33335873d2457adc4c84144/githubcard.svg"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Mayk Brito</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
+- 🔥 Sênior Web Developer & Instructor focused on helping people start programming 
+
+- 🔭 I’m currently working at [Rocketseat](https://github.com/Rocketseat)
+
+- ▶️ I (not) regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
+
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+
+- ⚡ Fun fact **Oneye 😜**
+
+- 👨‍💻 More at [maykbrito.dev](https://maykbrito.dev)
 <br>
 <div align="center">
   <a href="https://github.com/JesusRuescas">
