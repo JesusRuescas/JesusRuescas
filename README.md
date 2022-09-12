@@ -1,25 +1,34 @@
-## Olá eu sou o Jesus, criador de conteúdo de programação e tecnologia!
+## Olá eu sou o Jesus!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesusruescas&label=Views&color=blue&style=plastic" alt="jesusruescas" /> </p>
 
-<div align="center">
-    <a href="https://github.com/jesusruescas">
-        <img height="180em"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusruescas&theme=github_dark&hide_langs_below=1&line_height=20" />
-    </a>
-    <a href="https://github.com/jesusruescas">
-        <img height="180em"
-            src="https://github-readme-stats.vercel.app/api?username=jesusruescas&show_icons=true&theme=github_dark&line_height=20"
-            alt="Jesus github stats" />
-    </a>
-
-       
-<div style="display: inline_block"><br>
+<br>
+<div style="display=inline-block">
+  <a href="https://github.com/JesusRuescas">
+  <img height="160em"   align="center" src="https://github-readme-stats.vercel.app/api?username=JesusRuescas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusRuescas&&layout=compact&hide=shell&theme=dark"/>
+</div>
+<br>
+ 
+<h2>My Skills:</h2>
+<div style="display=inline-block">
   <img align="center" alt="Jesus-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Jesus-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Jesus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jesus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jesus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jesus-AHK" height="30" width="40" src="https://raw.githubusercontent.com/Ixiko/AHK-Forum/master/images/AHK%20main%20icon.png">
+ 
+ </div>
+
+<h2>Learning</h2>
+ <div style="display=inline-block">
+            
+</div>  
+   
+   
+
+       
+<div style="display: inline_block"><br>
   <br></br>
   <img align="center" alt="GIF" src="https://i.imgur.com/6XuW0TR.gif" width="120px" />
     </div>
