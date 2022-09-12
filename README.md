@@ -1,15 +1,14 @@
 ## Olá eu sou o Jesus, criador de conteúdo de programação e tecnologia!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesusruescas&label=Views&color=blue&style=plastic" alt="jesusruescas" /> </p>
 
-
 <div align="center">
     <a href="https://github.com/jesusruescas">
         <img height="180em"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusruescas&theme=github_dark&hide_langs_below=1" />
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusruescas&theme=github_dark&hide_langs_below=1&line_height=20" />
     </a>
     <a href="https://github.com/jesusruescas">
         <img height="180em"
-            src="https://github-readme-stats.vercel.app/api?username=jesusruescas&show_icons=true&theme=github_dark"
+            src="https://github-readme-stats.vercel.app/api?username=jesusruescas&show_icons=true&theme=github_dark&line_height=20"
             alt="Jesus github stats" />
     </a>
 
