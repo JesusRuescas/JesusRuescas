@@ -10,8 +10,8 @@
 - 💬 Ask me about **Java, Spring, API, TypeScript, Node**
 
 - 👨‍💻 More at [LinkedIn](https://linkedin.com/in/jesusruescas)
-- 
-<br>
+
+
 <div align="center">
   <a href="https://github.com/JesusRuescas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JesusRuescas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
