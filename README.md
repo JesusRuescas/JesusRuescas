@@ -1,7 +1,6 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jesusruescas&label=Views&color=blue&style=plastic" alt="jesusruescas" /> </p>
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/JesusRuescas/eec2cdc8e39a9e1f23f2b7fe9d8bc365/raw/1a13c34f98524870a33335873d2457adc4c84144/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Jesus Ruescas</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JesusRuescas&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Junior Back-End Developer! 
 
