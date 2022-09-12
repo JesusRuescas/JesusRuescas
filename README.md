@@ -17,7 +17,7 @@
   <img align="center" alt="Jesus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jesus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jesus-AHK" height="30" width="40" src="https://raw.githubusercontent.com/Ixiko/AHK-Forum/master/images/AHK%20main%20icon.png">
- 
+  <img align="center" alt="GIF" src="https://i.imgur.com/6XuW0TR.gif" width="120px" />
  </div>
 
 <h2>Learning</h2>
@@ -25,18 +25,6 @@
             
 </div>  
    
-   
-
-       
-<div style="display: inline_block"><br>
-  <br></br>
-  <img align="center" alt="GIF" src="https://i.imgur.com/6XuW0TR.gif" width="120px" />
-    </div>
-    
-  
-  ##
- 
-<div> 
   <a href = "mailto:jrj_business@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/JesusRuescas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
