@@ -3,12 +3,15 @@
 
 
 <div align="center">
-  <a href="[https://github.com/rafaballerini](https://github.com/jesusruescas)">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusruescas&theme=compact&github_dark&hide_langs_below=1"/>
-</div>
-
-
+    <a href="https://github.com/jesusruescas">
+        <img height="180em"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusruescas&theme=github_dark&hide_langs_below=1&line_height=20" />
+    </a>
+    <a href="https://github.com/jesusruescas">
+        <img height="180em"
+            src="https://github-readme-stats.vercel.app/api?username=jesusruescas&show_icons=true&theme=github_dark&line_height=20"
+            alt="Jesus github stats" />
+    </a>
 
        
 <div style="display: inline_block"><br>
