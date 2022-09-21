@@ -4,7 +4,8 @@
 
 - 🔥 Junior Back-End Developer! 
 
-- 🔭 I’m currently working at [VeeCode](https://github.com/vfipaas)
+- 🔭 I’m currently working at [Vertigo](https://github.com/vertigobr) | [VeeCode](https://github.com/vfipaas)
+
 
 - 💬 Ask me about **Java, Spring, API, TypeScript, Node**
 
