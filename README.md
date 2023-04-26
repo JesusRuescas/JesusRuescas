@@ -1,4 +1,4 @@
-<img align="right" height="890em" src="https://raw.githubusercontent.com/gist/JesusRuescas/1389aa359966319e2658df03a1d3501f/raw/6af38430ca3370291662678222f2e378a139268a/githubcard.svg"/>
+<img align="right" height="890em" src="https://gist.githubusercontent.com/JesusRuescas/8b3e9f8e2df7262279f8665bf9907626/raw/c428ee9ebc82f3f60c5e9bab2e601e7f92e92b46/JesusRuescasVTG"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Jesus Ruescas</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JesusRuescas&color=yellow" alt="Profile views" /> </p>
 
