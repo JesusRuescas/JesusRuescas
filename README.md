@@ -7,7 +7,7 @@
 - 🔭 I’m currently working at [Vertigo](https://github.com/vertigobr)
 
 
-- 💬 Ask me about **Java, Spring, APIs, TypeScript, CI/CD, Clean Code**
+- 💬 Ask me about **Java, Spring, APIs, TypeScript, CI/CD**
 
 - 👨‍💻 More at [LinkedIn](https://linkedin.com/in/jesusruescas)
 
