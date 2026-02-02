@@ -1,20 +1,37 @@
-<img align="right" height="890em" src="https://raw.githubusercontent.com/gist/JesusRuescas/8b3e9f8e2df7262279f8665bf9907626/raw/1eb47fb5a9cd7bb4958dd023c300b947781ffed1/JesusRuescasVTG.svg"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JesusRuescas&color=yellow" alt="Profile views" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=JesusRuescas&color=yellow" alt="Profile views" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=29&duration=3000&pause=1000&color=70A5FDBD&width=435&lines=Hello%2C+I'm+Jesus!;But+I'm+not+the+Christ!;I'm+a+Software+Developer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=70A5FDBD&width=600&lines=Hello%2C+I'm+Jesus!;Backend+Software+Developer;Java+%7C+Cloud+%7C+Microservices)](https://git.io/typing-svg)
 
-- 🔥 Back-End Developer! 
+## 👋 About me
 
-- 🔭 I’m currently working at [Vertigo](https://github.com/vertigobr)
+💻 **Backend Software Developer**  
+🎓 Bachelor in **Information Systems (FIAP)**  
+📐 Post-graduated in **Software Architecture (Java)**  
 
+🚀 Experience building **backend applications**, **microservices**, and **cloud-based systems**, working with **CI/CD pipelines** and **distributed architectures**.  
+🎯 Focused on scalable solutions and continuous growth toward a **FullCycle technical leadership** path.
 
-- 💬 Ask me about **Java, Spring, APIs, TypeScript, CI/CD**
+---
 
-- 👨‍💻 More at [LinkedIn](https://linkedin.com/in/jesusruescas)
+## 🧰 Tech Stack
+
+🧠 **Backend:** Java, Kotlin, TypeScript, Node.js  
+⚙️ **Frameworks:** Spring (Boot, Data, Security, Batch, Cloud), Quarkus  
+☁️ **Cloud & Messaging:** AWS, GCP, RabbitMQ, SQS  
+🐳 **DevOps:** Docker, Kubernetes, GitHub Actions, Jenkins, GitLab CI  
+🗄️ **Databases:** PostgreSQL, MySQL, DynamoDB, Neo4j  
+🔐 **Security:** OAuth2, OIDC, Keycloak, Cognito  
+📋 **Agile:** Scrum, Kanban
+
+---
+
+## 🔗 Links
+
+💼 [LinkedIn](https://linkedin.com/in/jesusruescas)
 
 <a href="https://github.com/JesusRuescas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JesusRuescas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=JesusRuescas&&theme=tokyonight"/>
-  <img height="237em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusRuescas&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img height="300em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jesusruescas&theme=tokyonight"/>       
-</div> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JesusRuescas&show_icons=true&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=JesusRuescas&theme=tokyonight"/>
+</a>
